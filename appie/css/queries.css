@@ -313,8 +313,160 @@
   .hero-heading-primary {
     font-size: 4rem;
   }
+  .get-button {
+    padding: 1rem;
+  }
 }
+@media (max-width: 29em) {
+  .get-button {
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  .nav-box {
+    gap: 0.3rem;
+  }
+  .header {
+    padding: 2.4rem 0.8rem;
+  }
+  .hero {
+    padding-left: 1rem;
+  }
+  .mail-input {
+    width: 100%;
+  }
+  .mail-arrow-icon {
+    left: 90%;
+  }
+  .features .head-section .heading-primary {
+    font-size: 3rem;
+  }
+  .features .head-section .text-primary {
+    font-size: 1.3rem;
+  }
+  .features .head-section .view-btn {
+    font-size: 1.5rem;
+    padding: 1.5rem;
+  }
+  .features-boxes .box .box-heading {
+    font-size: 2rem;
+  }
+  .features-boxes .box .box-text {
+    font-size: 1.5rem;
+  }
+  .marketing-tetx-box .mark {
+    font-size: 1rem;
+  }
+  .marketing-tetx-box .heading {
+    font-size: 2.5rem;
+  }
+  .marketing-tetx-box .marketing-description {
+    font-size: 1.5rem;
+  }
+  .marketing-let-box h5 {
+    font-size: 2rem;
+  }
+  .marketing-let-box p {
+    font-size: 1.3rem;
+  }
 
+  .event h2 {
+    font-size: 3rem;
+  }
+  .event p {
+    font-size: 1.2rem;
+  }
+  .event-box .text-box .box h3 {
+    font-size: 1.5rem;
+  }
+  .event-box .text-box .box p {
+    font-size: 1.1rem;
+    text-align: start;
+  }
+  .event-box .img-box img {
+    max-width: 100%;
+  }
+  .video .heading-primary {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .video .text-primary {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .video-text-box h4 {
+    font-size: 1.9rem;
+    text-align: start;
+  }
+  .video-text-box p {
+    margin-left: 0;
+  }
+  .download .container > p {
+    font-size: 1rem;
+  }
+  .download .container h4 {
+    font-size: 2rem;
+  }
+  .download .container .text {
+    font-size: 1.3rem;
+  }
+  .download .container .app-text .ios-box,
+  .download .container .app-text .android-box {
+    padding: 1rem;
+  }
+  .download .container .app-text .ios-box .ios-icon,
+  .download .container .app-text .android-box img {
+    width: 25px;
+  }
+  .download .container .app-text .ios-box p,
+  .download .container .app-text .android-box p {
+    font-size: 1rem;
+  }
+  .pricing .heading-primary {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .pricing .text-primary {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .review .container-vew {
+    gap: 2rem;
+  }
+  .tetx-box-rev .main-text {
+    font-size: 1.4rem;
+    text-align: justify;
+  }
+  .tetx-box-rev .name-person {
+    font-size: 2rem;
+  }
+  .platform .head-plat h2 {
+    font-size: 3rem;
+  }
+  .platform .head-plat p {
+    font-size: 2rem;
+  }
+  .platform .plat-logos img {
+    padding: 2rem;
+  }
+  .address-col .contacts .address p {
+    font-size: 1.6rem;
+  }
+  .download-boxes .ios-boxx {
+    padding: 1rem;
+  }
+  .download-boxes .ios-boxx p {
+    font-size: 1.5rem;
+  }
+  .download-boxes .android-boxx {
+    padding: 1rem;
+  }
+  .download-boxes .android-boxx p {
+    font-size: 1.5rem;
+  }
+  .copyright p {
+    font-size: 1.5rem;
+  }
+}
 /**************************/
 /* fexing gap in sfari */
 /**************************/
